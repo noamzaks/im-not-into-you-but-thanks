@@ -1,0 +1,14 @@
+
+{
+    "manifest_version": 2,
+    "name": "I'm not into you, but thanks!",
+    "description": "Throw random bits of niceness in WhatsApp Web",
+    "version": "1.0",
+    "background": {
+        "scripts": ["main.js"]
+    },
+    "permissions": [
+        "tabs",
+        "https://web.whatsapp.com/"
+    ]
+}
